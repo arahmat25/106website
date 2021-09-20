@@ -9,4 +9,11 @@
             body {
                 background-color:lightblue;
             }
+ .monkey  {
+            margin-left: auto; 
+  margin-right: auto;
+            }
+            .table {
+        text-align: center;
+      }
        
